@@ -1,0 +1,24 @@
+{
+  "name": "js-hello-world",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@georgemohammad/npm-hello-world": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeMohammad/js-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeMohammad/js-hello-world/issues"
+  },
+  "homepage": "https://github.com/GeorgeMohammad/js-hello-world#readme"
+}
